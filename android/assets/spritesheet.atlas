@@ -1,0 +1,90 @@
+
+spritesheet.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+planeBlue1
+  rotate: false
+  xy: 2, 152
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeBlue2
+  rotate: false
+  xy: 2, 77
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeBlue3
+  rotate: false
+  xy: 92, 152
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeGreen1
+  rotate: false
+  xy: 2, 2
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeGreen2
+  rotate: false
+  xy: 92, 77
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeGreen3
+  rotate: false
+  xy: 182, 152
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed1
+  rotate: false
+  xy: 92, 2
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed2
+  rotate: false
+  xy: 182, 77
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed3
+  rotate: false
+  xy: 272, 152
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeYellow1
+  rotate: false
+  xy: 182, 2
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeYellow2
+  rotate: false
+  xy: 272, 77
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeYellow3
+  rotate: false
+  xy: 362, 152
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
