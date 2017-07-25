@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cf2f7a72a13371738a91bea61b39412a016bc91/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shinigami/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.5_86843c51de2984a3c7de363e15e7a3c034dc365f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shinigami/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/pre-dexed/debug/gdx-1.9.5_74a737864589d7812d8f38c5e2fda2646e5d7074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shinigami/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.5_c1c04da534dcd8dda3ad5dc4106c1b87f457509d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc2ab8dd25d092ad15c7a67967cb89abc9ae6876">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_51a7e56b1b25026b426436f776d5f771f40cc926/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shinigami/Documents/Development/refactored-octo-potato/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab4d0d226131b40b4b8fe9f8d4ce50b7e8cfe9d5">
+        <dex dex="/home/shinigami/Documents/Development/refactored-octo-potato/android/build/intermediates/pre-dexed/debug/core-1.0_b999a7b30355d8f75b065b32f01687a4d04af4e1.jar" />
+    </item>
+
+</items>
